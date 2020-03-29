@@ -1,0 +1,16 @@
+thoi_su: https://vnexpress.net/thoi-su/hai-nguoi-chet-sau-vu-chay-cua-hang-4075990.html
+goc_nhin: https://vnexpress.net/goc-nhin/bao-ve-thay-thuoc-4060928.html
+the_gioi: https://vnexpress.net/the-gioi/viet-nam-khuyen-cao-cong-dan-khong-ve-nuoc-4076204.html
+kinh_doanh: https://vnexpress.net/kinh-doanh/xang-co-the-tiep-tuc-giam-sau-ngay-mai-4076155.html
+giai_tri: https://vnexpress.net/giai-tri/cac-rap-phim-trung-quoc-lai-dong-cua-4076117.html
+the_thao: https://vnexpress.net/the-thao/ioc-muon-to-chuc-olympic-dau-nam-2021-4076115.html
+phap_luat: https://vnexpress.net/phap-luat/hai-thanh-nien-dung-sung-cuop-cua-hang-4076176.html
+giao_duc: https://vnexpress.net/giao-duc/70-000-sinh-vien-tiep-tuc-nghi-hoc-4075629.html
+suc_khoe: https://vnexpress.net/suc-khoe/tp-hcm-lay-mau-xet-nghiem-tan-nha-nguoi-nhap-canh-4076101.html
+doi_song: https://vnexpress.net/doi-song/benh-nhan-covid-19-nhu-co-thuy-tinh-trong-phoi-4072577.html
+du_lich: https://vnexpress.net/du-lich/bi-phat-tien-vi-roi-nha-khi-cach-ly-4075780.html
+khoa_hoc: https://vnexpress.net/khoa-hoc/duoi-uoi-tu-lau-don-chuong-4075978.html
+so_hoa: https://vnexpress.net/so-hoa/ung-dung-ncovi-canh-bao-suc-khoe-qua-ma-qr-4075795.html
+xe: https://vnexpress.net/oto-xe-may/nhieu-cua-hang-xang-dau-co-the-bi-dong-cua-vi-covid-19-4075820.html
+y_kien: https://vnexpress.net/y-kien/the-na-o-la-dong-cua-hang-dich-vu-khong-thiet-yeu-o-ha-no-i-4075105.html
+tam_su: https://vnexpress.net/tam-su/ban-trai-im-lang-ca-tuan-khi-gian-doi-4075537.html
