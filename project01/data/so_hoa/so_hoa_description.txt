@@ -1,29 +1,35 @@
-https://vnexpress.net/so-hoa/ung-dung-ncovi-canh-bao-suc-khoe-qua-ma-qr-4075795.html
+https://vnexpress.net/so-hoa/netflix-giam-luu-luong-tai-viet-nam-4078017.html
 so_hoa_0.wav
-Ứng dụng NCOVI cảnh báo sức khoẻ qua mã QR.
+Netflix giảm lưu lượng tại Việt Nam.
 so_hoa_1.wav
-Ứng dụng NCOVI mới bổ sung tính năng quét mã QR cho phép kiểm tra nhanh tình trạng sức khoẻ của mình hoặc bạn bè.
+Netflix giảm lưu lượng viễn thông để tránh việc nghẽn mạng tại Việt Nam, nhưng chất lượng video sẽ được giữ nguyên.
 so_hoa_2.wav
-Sau khi khai báo y tế tự nguyện, người dùng sẽ được cấp một mã QR riêng trên ứng dụng NCOVI của Bộ Y tế.
+Netflix cho biết sẽ triển khai các biện pháp để giảm khoảng 25% lưu lượng viễn thông của dịch vụ trên toàn cầu và sẽ áp dụng tại Việt Nam trong 30 ngày, kể từ 31/3.
 so_hoa_3.wav
-Mã QR này sẽ cho biết tình trạng sức khoẻ của người dùng dựa trên thông tin đã khai báo.
+Động thái của dịch vụ cung cấp video theo yêu cầu này được đưa ra trong bối cảnh mọi người mọi người được khuyến khích ở nhà để phòng tránh Covid-19.
 so_hoa_4.wav
-Mỗi lần thay đổi tình trạng sức khoẻ trong phần khai báo y tế tự nguyện, mã QR cũng sẽ cập nhật và cho kết quả mới.
+Việc giảm lưu lượng sẽ góp phần giảm áp lực lên đường truyền mạng, hạn chế việc nghẽn mạng có thể xảy ra.
 so_hoa_5.wav
-Người dùng có thể theo dõi tình trạng sức khoẻ của mình khi nhấn vào mã QR.
+Theo Netflix, mặc dù giảm lưu lượng, nhưng chất lượng video sẽ được giữ nguyên.
 so_hoa_6.wav
-Bên dưới có hiển thị thêm thông tin về tên, tuổi, giấy chứng nhận sức khoẻ.
+Người dùng vẫn có thể thưởng thức video tương ứng với gói thuê bao mà họ đăng ký, với chất lượng từ SD cho tới UltraHD.
 so_hoa_7.wav
-Thông tin này có thể chia sẻ lên mạng xã hội hoặc lưu về máy.
+Giải thích cho việc này, Netflix cho biết mỗi tựa phim hoặc video trên hệ thống của hãng vốn có nhiều độ phân giải khác nhau, và mỗi độ phân giải sẽ có nhiều luồng truyền dẫn khác nhau.
 so_hoa_8.wav
-Để kiểm tra sức khoẻ người khác, bạn chỉ cần mở ứng dụng, quét mã QR trên điện thoại của họ.
+Khi áp dụng biện pháp giảm lưu lượng, hệ thống sẽ phát video từ các luồng có băng thông thấp nhất, loại bỏ các luồng có băng thông cao.
 so_hoa_9.wav
-Ứng dụng sẽ trả về tình trạng sức khoẻ của người bạn đang tiếp xúc để chủ động phòng tránh.
+Theo một chuyên gia trong lĩnh vực này, video truyền tới thiết bị xem của người dùng có thể ví như những chiếc xe đi trên đường cao tốc nhiều làn đường.
 so_hoa_10.wav
-NCOVI và Vietnam Health Declaration là hai ứng dụng khai báo sức khỏe tự nguyện dành cho người Việt Nam và khách nhập cảnh ra mắt ngày 9/3.
+Mỗi làn đường là một luồng truyền dẫn, và mỗi độ phân giải (SD/HD/UHD) là một đường cao tốc khác nhau.
 so_hoa_11.wav
-Dựa trên dữ liệu được người dùng chia sẻ, hệ thống y tế sẽ biết được các trường hợp cần chú ý để hỗ trợ nhanh nhất.
+Việc Netflix áp dụng việc giảm lưu lượng cũng giống việc họ cắt bỏ một làn đường tốc độ cao nhất.
 so_hoa_12.wav
-Sau 10 ngày ra mắt, ứng dụng NCOVI đạt một triệu lượt tải và hơn 500 nghìn lượt khai báo y tế.
+Khi đó, người dùng vẫn sẽ được đi trên đúng "đường cao tốc" mà mình đã đăng ký, nhưng ở các làn đường có tốc độ thấp hơn.
 so_hoa_13.wav
-Tại Việt Nam, ứng dụng này cũng nhiều lần nằm trong top thịnh hành, được tải nhiều hơn cả Facebook, Instagram.
+Đồng nghĩa với chất lượng video được giữ nguyên.
+so_hoa_14.wav
+Một số người dùng Netflix tại Việt Nam không nhận thấy có điều gì khác biệt khi xem video trước và sau ngày 31/3.
+so_hoa_15.wav
+Trước Netflix, nhiều dịch vụ video trực tuyến cũng cho biết sẽ có các biện pháp để giảm tải cho hệ thống mạng, vốn có lưu lượng tăng đột biến trong mùa dịch.
+so_hoa_16.wav
+YouTube, Amazon cũng đã giảm chất lượng video hoặc giảm lưu lượng đường truyền tại một số thị trường.

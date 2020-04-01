@@ -1,4 +1,4 @@
-https://vnexpress.net/tam-su/ban-trai-im-lang-ca-tuan-khi-gian-doi-4075537.html
+﻿https://vnexpress.net/tam-su/ban-trai-im-lang-ca-tuan-khi-gian-doi-4075537.html
 tam_su_0.wav
 Bạn trai im lặng cả tuần khi giận dỗi.
 tam_su_1.wav
@@ -35,5 +35,3 @@ tam_su_16.wav
 Sự đời tôi chưa trải nhiều, rất mong nhận được sự góp ý của mọi người.
 tam_su_17.wav
 Cảm ơn rất nhiều.
-tam_su_18.wav
-Ánh

@@ -1,7 +1,10 @@
-https://vnexpress.net/so-hoa/ung-dung-ncovi-canh-bao-suc-khoe-qua-ma-qr-4075795.html
-Ứng dụng NCOVI cảnh báo sức khoẻ qua mã QR.
-Ứng dụng NCOVI mới bổ sung tính năng quét mã QR cho phép kiểm tra nhanh tình trạng sức khoẻ của mình hoặc bạn bè.
-Sau khi khai báo y tế tự nguyện, người dùng sẽ được cấp một mã QR riêng trên ứng dụng NCOVI của Bộ Y tế. Mã QR này sẽ cho biết tình trạng sức khoẻ của người dùng dựa trên thông tin đã khai báo. Mỗi lần thay đổi tình trạng sức khoẻ trong phần khai báo y tế tự nguyện, mã QR cũng sẽ cập nhật và cho kết quả mới.
-Người dùng có thể theo dõi tình trạng sức khoẻ của mình khi nhấn vào mã QR. Bên dưới có hiển thị thêm thông tin về tên, tuổi, giấy chứng nhận sức khoẻ. Thông tin này có thể chia sẻ lên mạng xã hội hoặc lưu về máy.
-Để kiểm tra sức khoẻ người khác, bạn chỉ cần mở ứng dụng, quét mã QR trên điện thoại của họ. Ứng dụng sẽ trả về tình trạng sức khoẻ của người bạn đang tiếp xúc để chủ động phòng tránh.
-NCOVI và Vietnam Health Declaration là hai ứng dụng khai báo sức khỏe tự nguyện dành cho người Việt Nam và khách nhập cảnh ra mắt ngày 9/3. Dựa trên dữ liệu được người dùng chia sẻ, hệ thống y tế sẽ biết được các trường hợp cần chú ý để hỗ trợ nhanh nhất. Sau 10 ngày ra mắt, ứng dụng NCOVI đạt một triệu lượt tải và hơn 500 nghìn lượt khai báo y tế. Tại Việt Nam, ứng dụng này cũng nhiều lần nằm trong top thịnh hành, được tải nhiều hơn cả Facebook, Instagram.
+https://vnexpress.net/so-hoa/netflix-giam-luu-luong-tai-viet-nam-4078017.html
+Netflix giảm lưu lượng tại Việt Nam.
+Netflix giảm lưu lượng viễn thông để tránh việc nghẽn mạng tại Việt Nam, nhưng chất lượng video sẽ được giữ nguyên.
+Netflix cho biết sẽ triển khai các biện pháp để giảm khoảng 25% lưu lượng viễn thông của dịch vụ trên toàn cầu và sẽ áp dụng tại Việt Nam trong 30 ngày, kể từ 31/3.
+Động thái của dịch vụ cung cấp video theo yêu cầu này được đưa ra trong bối cảnh mọi người mọi người được khuyến khích ở nhà để phòng tránh Covid-19. Việc giảm lưu lượng sẽ góp phần giảm áp lực lên đường truyền mạng, hạn chế việc nghẽn mạng có thể xảy ra.
+Theo Netflix, mặc dù giảm lưu lượng, nhưng chất lượng video sẽ được giữ nguyên. Người dùng vẫn có thể thưởng thức video tương ứng với gói thuê bao mà họ đăng ký, với chất lượng từ SD cho tới UltraHD.
+Giải thích cho việc này, Netflix cho biết mỗi tựa phim hoặc video trên hệ thống của hãng vốn có nhiều độ phân giải khác nhau, và mỗi độ phân giải sẽ có nhiều luồng truyền dẫn khác nhau. Khi áp dụng biện pháp giảm lưu lượng, hệ thống sẽ phát video từ các luồng có băng thông thấp nhất, loại bỏ các luồng có băng thông cao.
+Theo một chuyên gia trong lĩnh vực này, video truyền tới thiết bị xem của người dùng có thể ví như những chiếc xe đi trên đường cao tốc nhiều làn đường. Mỗi làn đường là một luồng truyền dẫn, và mỗi độ phân giải (SD/HD/UHD) là một đường cao tốc khác nhau. Việc Netflix áp dụng việc giảm lưu lượng cũng giống việc họ cắt bỏ một làn đường tốc độ cao nhất. Khi đó, người dùng vẫn sẽ được đi trên đúng "đường cao tốc" mà mình đã đăng ký, nhưng ở các làn đường có tốc độ thấp hơn. Đồng nghĩa với chất lượng video được giữ nguyên.
+Một số người dùng Netflix tại Việt Nam không nhận thấy có điều gì khác biệt khi xem video trước và sau ngày 31/3.
+Trước Netflix, nhiều dịch vụ video trực tuyến cũng cho biết sẽ có các biện pháp để giảm tải cho hệ thống mạng, vốn có lưu lượng tăng đột biến trong mùa dịch. YouTube, Amazon cũng đã giảm chất lượng video hoặc giảm lưu lượng đường truyền tại một số thị trường. 
