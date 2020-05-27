@@ -22,7 +22,7 @@ class App:
         self.recording = False
 
         # For model
-        self.models = pickle.load(open("models.pkl", "rb"))
+        self.models = pickle.load(open("models_fixtransmat.pkl", "rb"))
         self.file_path = ""
         # self.predict = ""
 
@@ -97,10 +97,10 @@ class App:
         if not self.file_path:
             print("NO file")
             return
-        print("predicted")
         O = get_mfcc(self.file_path)
         score = {cname : model.score(O, [len(O)]) for cname, model in self.models.items()}
         predict = max(score, key=score.get)
+        print("predicted")
         self.result_text.config(text="Result: "+predict)
 
 

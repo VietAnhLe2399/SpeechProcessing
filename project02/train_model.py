@@ -46,7 +46,7 @@ if __name__ == "__main__":
 
     for cname in class_names:
         print(f"Load {cname} dataset")
-        dataset[cname] = get_class_data(os.path.join("data", cname))
+        dataset[cname] = get_class_data(os.path.join("wav_file", cname))
     #     uncomment to shuffle dataset
         random.shuffle(dataset[cname])
         train_size = int(0.8*len(dataset[cname]))
