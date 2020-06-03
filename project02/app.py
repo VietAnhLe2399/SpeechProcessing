@@ -28,7 +28,7 @@ class App:
 
         # For App
         self.main = tk.Tk()
-        self.main.geometry('400x200')
+        self.main.geometry('400x250')
         self.main.title('Speech Recognition')
 
         self.file_name = tk.Label(text="No file selected")
